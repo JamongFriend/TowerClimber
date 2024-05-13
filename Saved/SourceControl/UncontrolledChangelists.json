@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/code/UE5/TowerClimber/Content/BluePrint/Character/King/ABP_King.uasset",
+				"D:/code/UE5/TowerClimber/Content/Asset/Tower_Climb_Assets/TileSets/Terrain_TileSet.uasset",
+				"D:/code/UE5/TowerClimber/Content/Asset/Tower_Climb_Assets/TileSets/Terrain_TileMap.uasset",
+				"D:/code/UE5/TowerClimber/Content/Maps/Map_Tower.umap",
 				"D:/code/GitHub/TowerClimber/Content/NewMap.umap",
 				"D:/code/GitHub/TowerClimber/Content/Maps/NewMap.umap",
 				"D:/code/GitHub/TowerClimber/Content/Input/Action/IA_Move.uasset",
